@@ -7,9 +7,7 @@ last_name = 'Nasiry'
 full_name = 'Aqila Nasiry'
 country = 'USA'
 city = 'Sacramento'
-age = 25
 year = 2026
-is_married = True
 is_true = 'Student'
 fav_color , first_school_friend, fav_food = 'Pink' , 'Farkhunda', 'Pizza'
 
@@ -17,8 +15,6 @@ fav_color , first_school_friend, fav_food = 'Pink' , 'Farkhunda', 'Pizza'
 #Level2 
 print('Type of first name is: ' , type(first_name))
 print('Type of last name is: ' , type(last_name))
-print('Type of age is: ' , type(age))
-print('Type of is_married is: ' , type(is_married))
 print('Type of is_true is: ' , type(is_true))
 print('Type of fav_color is: ' , type(fav_color))
 
